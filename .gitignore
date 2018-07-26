@@ -5,6 +5,14 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Release
+wwwroot/**/*.js
+wwwroot/**/*.map
+wwwroot/assets
+
+# NPM
+package-lock.json
+
 # Runtime data
 pids
 *.pid
