@@ -1,4 +1,11 @@
+import './polyfills';
+import { Utils } from './utils';
 import template from './index.html';
 
-let app = document.getElementById('app');
-app.innerHTML = template;
+console.log('It starts!');
+
+(async () => {
+  await Utils.onDocumentReady();
+  let app = document.getElementById('app');
+  app.innerHTML = template;
+})();

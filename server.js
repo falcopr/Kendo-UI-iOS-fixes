@@ -1,10 +1,18 @@
 'use strict';
 
-let express = require('express'),
-  path = require('path'),
-  app = express();
+const WebpackDevServer = require('webpack-dev-server');
+const webpack = require('webpack');
 
-let argv = require('yargs')
+const config = require('./webpack.config.js');
+config.mode = 'development';
+
+const options = {
+  contentBase: './wwwroot',
+  hot: true,
+  host: 'localhost'
+};
+
+const argv = require('yargs')
   .usage('Usage: $0 --port=[num]')
   .alias('p', 'port')
   .default({
@@ -12,15 +20,12 @@ let argv = require('yargs')
   })
   .argv;
 
-app.use('/', express.static(path.join(__dirname, 'wwwroot')));
-app.use('/assets', express.static(path.join(__dirname, 'wwwroot/assets')));
+WebpackDevServer.addDevServerEntrypoints(config, options);
+const compiler = webpack(config);
+const server = new WebpackDevServer(compiler, options);
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'wwwroot/index.html'));
-});
-
-app.listen(argv.port, () => {
-  console.log(`Start webclient on port ${argv.port}!`);
+server.listen(argv.port, options.host, () => {
+  console.log(`Start webclient on port ${options.host}:${argv.port}!`);
 });
 
 process.on('SIGINT', () => {

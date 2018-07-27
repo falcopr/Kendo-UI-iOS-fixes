@@ -49,7 +49,10 @@ module.exports = {
           presets: [
             ['env', {
               'targets': {
-                browsers: '> 2%'
+                // browsers: '> 2%'
+                browsers: [
+                  'Explorer 11'
+                ]
               }
             }]
           ]
@@ -64,7 +67,9 @@ module.exports = {
     new webpack.ProvidePlugin({
       'video.js': 'video.js/dist/video.cjs.js',
       '$': 'jquery/dist/jquery.js'
-    })
+    }),
+    new webpack.HotModuleReplacementPlugin(),
+    new webpack.NoEmitOnErrorsPlugin()
   ],
   resolve: {
     extensions: ['.js', '.jsx', '.css', '.less', '.html'],

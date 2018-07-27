@@ -41,6 +41,13 @@
     "url-loader": "^1.0.1",
     "webpack": "^4.16.2",
     "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.5",
+    "webpack-hot-middleware": "^2.22.3",
     "yargs": "^12.0.1"
+  },
+  "dependencies": {
+    "@progress/kendo-ui": "^2017.3.1026",
+    "angular": "^1.7.2",
+    "jquery": "^3.3.1"
   }
 }
