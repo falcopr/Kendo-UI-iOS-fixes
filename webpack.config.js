@@ -55,6 +55,9 @@ module.exports = {
                 ]
               }
             }]
+          ],
+          plugins: [
+            ['transform-class-properties', { 'spec': true }]
           ]
         }
       }
@@ -65,17 +68,17 @@ module.exports = {
   },
   plugins: [
     new webpack.ProvidePlugin({
-      'video.js': 'video.js/dist/video.cjs.js',
-      '$': 'jquery/dist/jquery.js'
+      'window.$': 'jquery/dist/jquery.js',
+      'window.jQuery': 'jquery/dist/jquery.js'
     }),
-    new webpack.HotModuleReplacementPlugin(),
-    new webpack.NoEmitOnErrorsPlugin()
+    new webpack.HotModuleReplacementPlugin()
+    // new webpack.NoEmitOnErrorsPlugin()
   ],
   resolve: {
     extensions: ['.js', '.jsx', '.css', '.less', '.html'],
-    modules: [`${__dirname}/src`, 'node_modules']
-    // alias: {
-    //   'video.js': 'video.js/dist/video.es.js'
-    // }
+    modules: [`${__dirname}/src`, 'node_modules'],
+    alias: {
+      'kendo': '@progress/kendo-ui/js/'
+    }
   }
 }

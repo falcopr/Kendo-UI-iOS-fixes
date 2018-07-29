@@ -9,14 +9,15 @@ config.mode = 'development';
 const options = {
   contentBase: './wwwroot',
   hot: true,
-  host: 'localhost'
+  host: 'localhost',
+  historyApiFallback: true
 };
 
 const argv = require('yargs')
   .usage('Usage: $0 --port=[num]')
   .alias('p', 'port')
   .default({
-    port: 8080
+    port: 8082
   })
   .argv;
 

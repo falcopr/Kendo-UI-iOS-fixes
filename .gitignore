@@ -8,6 +8,7 @@ yarn-error.log*
 # Release
 wwwroot/**/*.js
 wwwroot/**/*.map
+wwwroot/**/*.json
 wwwroot/assets
 
 # NPM

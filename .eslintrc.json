@@ -3,20 +3,31 @@
   "plugins": [
     "standard",
     "promise",
-    "class-property"
+    "babel"
   ],
   "parserOptions": {
-    "ecmaVersion": 2017,
+    "ecmaVersion": 9,
     "sourceType": "module",
-    "ecmaFeatures": {
-      "jsx": true
+    "parser": "babel-eslint",
+    "rules": {
+      "strict": 0
     }
   },
   "rules": {
-    "semi": "off",
+    "babel/new-cap": 1,
+    "babel/no-invalid-this": 1,
+    "babel/object-curly-spacing": 0,
+    "babel/quotes": 0,
+    "babel/semi": 1,
+    "babel/no-unused-expressions": 1,
     "one-var": "off",
-    "space-before-function-paren": "off",
     "no-unused-vars": "warn",
-    "no-return-assign": "warn"
+    "no-return-assign": "warn",
+    "space-before-function-paren": "off",
+    "semi": "off"
+  },
+  "globals": {
+    "kendo": true,
+    "window": true
   }
 }
