@@ -1,11 +1,13 @@
 <h4>Assets</h4>
 <select kendo-drop-down-list 
   style="width: 100%;"
+  k-option-label="'Alle Basiswerte'"
   k-data-text-field="'Name'"
   k-data-value-field="'Id'"
   k-data-source="$ctrl.assetDataSource"
   k-ng-model="$ctrl.selectedAsset"
   k-change="$ctrl.onAssetChanged.bind($ctrl)"
+  k-filter="'contains'"
   k-height="400">
 </select>
 
