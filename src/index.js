@@ -1,7 +1,6 @@
-import './polyfills';
 import './libraries';
 import 'main/main.module.js';
-import { Utils } from './utils';
+import { Utils } from './common/utils';
 import template from './index.html';
 
 console.log('Initializing application!');

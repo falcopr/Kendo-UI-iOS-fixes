@@ -1,3 +1,6 @@
+// Polyfills
+import 'babel-polyfill';
+
 // jQuery
 import 'jquery';
 

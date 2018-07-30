@@ -18,6 +18,9 @@
   "author": "Falco Prescher",
   "license": "MIT",
   "devDependencies": {
+    "@types/angular": "^1.6.49",
+    "@types/kendo-ui": "^2017.2.2",
+    "@types/lodash-es": "^4.17.1",
     "babel-core": "^6.26.3",
     "babel-eslint": "^8.2.6",
     "babel-loader": "^7.1.5",
@@ -50,6 +53,7 @@
   "dependencies": {
     "@progress/kendo-ui": "^2017.3.1026",
     "angular": "^1.7.2",
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "lodash-es": "^4.17.10"
   }
 }

@@ -1,4 +1,15 @@
-<h4>Static data</h4>
+<h4>Assets</h4>
+<select kendo-drop-down-list 
+  style="width: 100%;"
+  k-data-text-field="'Name'"
+  k-data-value-field="'Id'"
+  k-data-source="$ctrl.assetDataSource"
+  k-ng-model="$ctrl.selectedAsset"
+  k-change="$ctrl.onAssetChanged.bind($ctrl)"
+  k-height="400">
+</select>
+
+<h4>Countries</h4>
 <select kendo-drop-down-list  style="width: 100%;">
   <option>Albania</option>
   <option>Andorra</option>

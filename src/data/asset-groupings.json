@@ -1,0 +1,5060 @@
+[
+  {
+    "InstrumentIdentifier": "DEM_DRI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2010023,
+    "Name": "1&1 Drillisch"
+  },
+  {
+    "InstrumentIdentifier": "US_10YR_(CBOT)_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875075,
+    "Name": "10-Year U.S. Treasury Note Futures Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "USD_TWOU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15891691,
+    "Name": "2U Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_TDSC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15767432,
+    "Name": "3D Systems Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_MMM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200311,
+    "Name": "3M"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ARL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15575495,
+    "Name": "Aareal Bank AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_ABB_LTD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547875,
+    "Name": "ABB Ltd"
+  },
+  {
+    "InstrumentIdentifier": "USD_ABBV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15822642,
+    "Name": "AbbVie Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_ANF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15633452,
+    "Name": "Abercrombie & Fitch Co."
+  },
+  {
+    "InstrumentIdentifier": "USD_ABMD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15619611,
+    "Name": "Abiomed Inc"
+  },
+  {
+    "InstrumentIdentifier": "NLG_ABN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15874657,
+    "Name": "ABN AMRO Group NV"
+  },
+  {
+    "InstrumentIdentifier": "USD_ACN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15638101,
+    "Name": "Accenture PLC"
+  },
+  {
+    "InstrumentIdentifier": "FRF_ACCOR_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20000,
+    "Name": "Accor"
+  },
+  {
+    "InstrumentIdentifier": "ESP_ACS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 50002,
+    "Name": "ACS Cons Y Serv"
+  },
+  {
+    "InstrumentIdentifier": "USD_ATVI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15619973,
+    "Name": "Activision Blizzard"
+  },
+  {
+    "InstrumentIdentifier": "CHF_ADEC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100204,
+    "Name": "Adecco Group AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ADIDAS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65003,
+    "Name": "adidas AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_ADBE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200003,
+    "Name": "Adobe Sys"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ADVA_OPT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35062,
+    "Name": "Adva AG Optical Networking"
+  },
+  {
+    "InstrumentIdentifier": "USD_AMD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200004,
+    "Name": "Advanced Micro Devices Inc"
+  },
+  {
+    "InstrumentIdentifier": "NLG_ADYEN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15891983,
+    "Name": "Adyen NV"
+  },
+  {
+    "InstrumentIdentifier": "NLG_AEGON_3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65012,
+    "Name": "Aegon"
+  },
+  {
+    "InstrumentIdentifier": "NLG_AEX_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 140001,
+    "Name": "AEX"
+  },
+  {
+    "InstrumentIdentifier": "USD_AEM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546601,
+    "Name": "Agnico-Eagle Mines Ltd"
+  },
+  {
+    "InstrumentIdentifier": "HKD_1288.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15756753,
+    "Name": "Agricultural Bank of China Ltd"
+  },
+  {
+    "InstrumentIdentifier": "USD_AIG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200027,
+    "Name": "AIG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_AIR_FRANCE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100016,
+    "Name": "Air France - KLM"
+  },
+  {
+    "InstrumentIdentifier": "FRF_AIR_LIQUIDE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20002,
+    "Name": "Air Liquide"
+  },
+  {
+    "InstrumentIdentifier": "FRF_EAD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 45014,
+    "Name": "Airbus SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_AIX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35046,
+    "Name": "Aixtron SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_AKAM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 310051,
+    "Name": "Akamai Technologies Inc"
+  },
+  {
+    "InstrumentIdentifier": "NLG_AKZO3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65006,
+    "Name": "Akzo Nobel"
+  },
+  {
+    "InstrumentIdentifier": "USD_AA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200018,
+    "Name": "Alcoa Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_BABA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15862975,
+    "Name": "Alibaba Group Holding ADR"
+  },
+  {
+    "InstrumentIdentifier": "USD_ALGN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15619747,
+    "Name": "Align Technology Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ALV2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10000,
+    "Name": "Allianz SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_GOOG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634381,
+    "Name": "Alphabet Inc C"
+  },
+  {
+    "InstrumentIdentifier": "FRF_ALSTOM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15571985,
+    "Name": "Alstom"
+  },
+  {
+    "InstrumentIdentifier": "DEM_AOX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15673381,
+    "Name": "Alstria Office REIT AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_AABA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881773,
+    "Name": "ALTABA INC"
+  },
+  {
+    "InstrumentIdentifier": "USD_MO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200366,
+    "Name": "Altria Group"
+  },
+  {
+    "InstrumentIdentifier": "USD_AMAZON.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 7310015,
+    "Name": "Amazon"
+  },
+  {
+    "InstrumentIdentifier": "USD_AXP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200023,
+    "Name": "American Express"
+  },
+  {
+    "InstrumentIdentifier": "USD_SWHC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15719793,
+    "Name": "American Outdoor Brands Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_AMGN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15606755,
+    "Name": "Amgen Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_AAL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200033,
+    "Name": "AMR Corp"
+  },
+  {
+    "InstrumentIdentifier": "CHF_AMS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15681483,
+    "Name": "ams AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_APC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200034,
+    "Name": "Anadarko Petroleum Corp"
+  },
+  {
+    "InstrumentIdentifier": "ATS_ANDR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548505,
+    "Name": "Andritz AG"
+  },
+  {
+    "InstrumentIdentifier": "GBP_AAL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 5027,
+    "Name": "Anglo American"
+  },
+  {
+    "InstrumentIdentifier": "USD_AU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548547,
+    "Name": "AngloGold ADR"
+  },
+  {
+    "InstrumentIdentifier": "BEF_INTB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 110010,
+    "Name": "Anheuser-Busch-InBev"
+  },
+  {
+    "InstrumentIdentifier": "USD_APA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200038,
+    "Name": "Apache Corp"
+  },
+  {
+    "InstrumentIdentifier": "EUR_APO_GE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15866172,
+    "Name": "apo Generica Select Index"
+  },
+  {
+    "InstrumentIdentifier": "USD_AAPL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200039,
+    "Name": "Apple Inc."
+  },
+  {
+    "InstrumentIdentifier": "USD_AMAT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200040,
+    "Name": "Applied Materials"
+  },
+  {
+    "InstrumentIdentifier": "NLG_MT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15653721,
+    "Name": "ArcelorMittal"
+  },
+  {
+    "InstrumentIdentifier": "USD_ADM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200041,
+    "Name": "Archer-Daniels"
+  },
+  {
+    "InstrumentIdentifier": "USD_ARNC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15879701,
+    "Name": "Arconic Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_AT1_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15890683,
+    "Name": "Aroundtown SA"
+  },
+  {
+    "InstrumentIdentifier": "NLG_ASML_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100152,
+    "Name": "ASML Holding NV"
+  },
+  {
+    "InstrumentIdentifier": "PLN_SOBK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15725127,
+    "Name": "Asseco Poland"
+  },
+  {
+    "InstrumentIdentifier": "GBP_ASTRAZENECA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 102,
+    "Name": "AstraZeneca plc"
+  },
+  {
+    "InstrumentIdentifier": "ATS_ATSV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2030025,
+    "Name": "AT&S Austria Tech"
+  },
+  {
+    "InstrumentIdentifier": "USD_T.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200048,
+    "Name": "AT&T"
+  },
+  {
+    "InstrumentIdentifier": "ATS_ATX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15545623,
+    "Name": "ATX"
+  },
+  {
+    "InstrumentIdentifier": "AUDUSD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15646203,
+    "Name": "AUD/USD"
+  },
+  {
+    "InstrumentIdentifier": "DEM_AAGG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880871,
+    "Name": "Aumann AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_AR4G.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15772791,
+    "Name": "AURELIUS Equity Opportunities SE & Co KGaA"
+  },
+  {
+    "InstrumentIdentifier": "CAD_ACB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881393,
+    "Name": "Aurora Cannabis Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_NDA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547573,
+    "Name": "Aurubis AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_ADSK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200050,
+    "Name": "AutoDesk Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_AZO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200052,
+    "Name": "Autozone Inc"
+  },
+  {
+    "InstrumentIdentifier": "FRF_AXA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20004,
+    "Name": "Axa"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SPR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15673382,
+    "Name": "Axel Springer SE"
+  },
+  {
+    "InstrumentIdentifier": "GBP_BA_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 18,
+    "Name": "BAE Systems PLC"
+  },
+  {
+    "InstrumentIdentifier": "USD_BIDU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15641955,
+    "Name": "Baidu, Inc. ADS"
+  },
+  {
+    "InstrumentIdentifier": "USD_BLDP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609723,
+    "Name": "Ballard Power Systems Inc"
+  },
+  {
+    "InstrumentIdentifier": "CHF_BALZN1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40002,
+    "Name": "Baloise"
+  },
+  {
+    "InstrumentIdentifier": "ESP_SANTANDER.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 120002,
+    "Name": "Banco Santander SA"
+  },
+  {
+    "InstrumentIdentifier": "USD_BAC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70001,
+    "Name": "Bank of America"
+  },
+  {
+    "InstrumentIdentifier": "HKD_3988.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15657983,
+    "Name": "Bank of China"
+  },
+  {
+    "InstrumentIdentifier": "GBP_BARC1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10,
+    "Name": "Barclays PLC"
+  },
+  {
+    "InstrumentIdentifier": "USD_ABX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200064,
+    "Name": "Barrick Gold"
+  },
+  {
+    "InstrumentIdentifier": "CHF_BARY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2060004,
+    "Name": "Barry Callebaut AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BAS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10001,
+    "Name": "BASF SE"
+  },
+  {
+    "InstrumentIdentifier": "CHF_BSLN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15630665,
+    "Name": "Basilea Pharmaceutica AG"
+  },
+  {
+    "InstrumentIdentifier": "ATS_BG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15888981,
+    "Name": "BAWAG Group AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BAY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10003,
+    "Name": "Bayer AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BYW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628845,
+    "Name": "BayWa"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BB_BIOTECHN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547757,
+    "Name": "BB Biotech AG"
+  },
+  {
+    "InstrumentIdentifier": "ESP_BANBILVIZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 120006,
+    "Name": "BBVA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BC8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15612481,
+    "Name": "Bechtle"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BEIERSDORF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100071,
+    "Name": "Beiersdorf AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_BRK/A.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548685,
+    "Name": "Berkshire Hathaway A"
+  },
+  {
+    "InstrumentIdentifier": "USD_BRK_B.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628512,
+    "Name": "Berkshire Hathaway B"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BDT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15636553,
+    "Name": "Bertrandt AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_BBY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70044,
+    "Name": "Best Buy Co Inc"
+  },
+  {
+    "InstrumentIdentifier": "GBP_BLT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 14,
+    "Name": "BHP Billiton Plc"
+  },
+  {
+    "InstrumentIdentifier": "USD_BBL_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15814021,
+    "Name": "BHP Billiton PLC ADR"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BILFINGER.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100075,
+    "Name": "Bilfinger SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_BIIB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628021,
+    "Name": "Biogen IDEC Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BMW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10005,
+    "Name": "BMW"
+  },
+  {
+    "InstrumentIdentifier": "FRF_BNP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20005,
+    "Name": "BNP Paribas"
+  },
+  {
+    "InstrumentIdentifier": "USD_BA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200080,
+    "Name": "Boeing"
+  },
+  {
+    "InstrumentIdentifier": "USD_PCLN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15606801,
+    "Name": "Booking Holdings Inc"
+  },
+  {
+    "InstrumentIdentifier": "FRF_BOUYGUES.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100018,
+    "Name": "Bouygues"
+  },
+  {
+    "InstrumentIdentifier": "USD_BOX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15757563,
+    "Name": "Box Inc"
+  },
+  {
+    "InstrumentIdentifier": "GBP_BPA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 5094,
+    "Name": "BP PLC"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BNR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15727372,
+    "Name": "Brenntag AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_BMY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200084,
+    "Name": "Bristol-Myers"
+  },
+  {
+    "InstrumentIdentifier": "GBP_BATS_NEW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 12,
+    "Name": "British American Tobacco PLC"
+  },
+  {
+    "InstrumentIdentifier": "GBP_BRBY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15567352,
+    "Name": "Burberry Group PLC"
+  },
+  {
+    "InstrumentIdentifier": "ATS_BWO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15854871,
+    "Name": "BUWOG AG"
+  },
+  {
+    "InstrumentIdentifier": "HKD_1211.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15623023,
+    "Name": "Byd Company Limited"
+  },
+  {
+    "InstrumentIdentifier": "FRF_CAC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 25000,
+    "Name": "CAC 40"
+  },
+  {
+    "InstrumentIdentifier": "EUR_CAC_FUT10_Q8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875247,
+    "Name": "CAC 40 Future Aug 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_CCJ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15637942,
+    "Name": "Cameco"
+  },
+  {
+    "InstrumentIdentifier": "USD_CNI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15759022,
+    "Name": "Canadian National Railway Co"
+  },
+  {
+    "InstrumentIdentifier": "USD_CP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15669281,
+    "Name": "Canadian Pacific Railway Ltd"
+  },
+  {
+    "InstrumentIdentifier": "DEM_COK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711675,
+    "Name": "Cancom SE"
+  },
+  {
+    "InstrumentIdentifier": "CAD_CGC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15879891,
+    "Name": "Canopy Growth Corp"
+  },
+  {
+    "InstrumentIdentifier": "FRF_CAP_GEMINI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20007,
+    "Name": "Capgemini SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_CARL_ZEISS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15662551,
+    "Name": "Carl Zeiss Meditech"
+  },
+  {
+    "InstrumentIdentifier": "DKK_CARCB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15596647,
+    "Name": "Carlsberg A/S"
+  },
+  {
+    "InstrumentIdentifier": "FRF_CARREFOUR_3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20008,
+    "Name": "Carrefour"
+  },
+  {
+    "InstrumentIdentifier": "FRF_CASINO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100019,
+    "Name": "Casino"
+  },
+  {
+    "InstrumentIdentifier": "USD_CAT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200096,
+    "Name": "Caterpillar Inc"
+  },
+  {
+    "InstrumentIdentifier": "FIM_CAV1V.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15834102,
+    "Name": "Caverion Oyj"
+  },
+  {
+    "InstrumentIdentifier": "EUR_CECEEUR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15610737,
+    "Name": "CECE"
+  },
+  {
+    "InstrumentIdentifier": "USD_CECE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15674315,
+    "Name": "CECE USD"
+  },
+  {
+    "InstrumentIdentifier": "DEM_CEC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10019,
+    "Name": "Ceconomy AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_CELG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609837,
+    "Name": "Celgene Corporation"
+  },
+  {
+    "InstrumentIdentifier": "USD_CERN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15620322,
+    "Name": "Cerner Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_CWC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564151,
+    "Name": "CEWE Stiftung & Co KGaA"
+  },
+  {
+    "InstrumentIdentifier": "CZK_CEZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15669287,
+    "Name": "CEZ as"
+  },
+  {
+    "InstrumentIdentifier": "USD_CVX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548673,
+    "Name": "Chevron"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0998.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672881,
+    "Name": "China CITIC Bank"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0939.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15647112,
+    "Name": "China Constrn Bk"
+  },
+  {
+    "InstrumentIdentifier": "HKD_2628.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15629853,
+    "Name": "China Life"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0941.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 1000006,
+    "Name": "China Mobile"
+  },
+  {
+    "InstrumentIdentifier": "USD_CHL_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634101,
+    "Name": "China Mobile ADR"
+  },
+  {
+    "InstrumentIdentifier": "USD_SNP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15759855,
+    "Name": "China Petroleum & Chemical Corp ADR"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0728.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15623003,
+    "Name": "China Telecom"
+  },
+  {
+    "InstrumentIdentifier": "USD_CHA_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634271,
+    "Name": "China Telecom ADR"
+  },
+  {
+    "InstrumentIdentifier": "USD_CMG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15681711,
+    "Name": "Chipotle Mexican Grill Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_CIEN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 310016,
+    "Name": "CIENA"
+  },
+  {
+    "InstrumentIdentifier": "USD_CISCO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200113,
+    "Name": "Cisco"
+  },
+  {
+    "InstrumentIdentifier": "USD_C.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70016,
+    "Name": "Citigroup"
+  },
+  {
+    "InstrumentIdentifier": "CHF_CLN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547882,
+    "Name": "Clariant AG"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0883-1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548991,
+    "Name": "CNOOC"
+  },
+  {
+    "InstrumentIdentifier": "USD_COCA_COLA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200118,
+    "Name": "Coca-Cola Co"
+  },
+  {
+    "InstrumentIdentifier": "C_NBOT_COCOA_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 0,
+    "Id": 15875301,
+    "Name": "Cocoa Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "C_NBOT_COFFEE_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15875312,
+    "Name": "Coffee Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "USD_CTSH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15620631,
+    "Name": "Cognizant Technology Solutions"
+  },
+  {
+    "InstrumentIdentifier": "USD_CMCSA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15610851,
+    "Name": "Comcast Corp"
+  },
+  {
+    "InstrumentIdentifier": "WD_ZAR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672411,
+    "Name": "Commerzbank Afrika Top 10"
+  },
+  {
+    "InstrumentIdentifier": "DEM_CBK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10006,
+    "Name": "Commerzbank AG"
+  },
+  {
+    "InstrumentIdentifier": "EUR_EUBRT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871551,
+    "Name": "Commerzbank Europa Branchen Trend Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_COP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15706403,
+    "Name": "CompuGroup Medical SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_COP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15567453,
+    "Name": "ConocoPhillips"
+  },
+  {
+    "InstrumentIdentifier": "DEM_CON.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100077,
+    "Name": "Continental AG"
+  },
+  {
+    "InstrumentIdentifier": "C_CMX_COPP_F_Z8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875325,
+    "Name": "Copper Future Dec 18"
+  },
+  {
+    "InstrumentIdentifier": "C_CMX_COPP_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15875343,
+    "Name": "Copper Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "C_NBOT_COTTON_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15875381,
+    "Name": "Cotton Future Dec 18"
+  },
+  {
+    "InstrumentIdentifier": "USD_COTY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15847091,
+    "Name": "Coty Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_1COV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15874247,
+    "Name": "Covestro AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_C_AGRICOLE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15575777,
+    "Name": "Credit Agricole"
+  },
+  {
+    "InstrumentIdentifier": "CHF_CSHOLDING.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40005,
+    "Name": "Credit Suisse"
+  },
+  {
+    "InstrumentIdentifier": "USD_CSX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200140,
+    "Name": "CSX Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_EVD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15630277,
+    "Name": "CTS Eventim AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_CVS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200142,
+    "Name": "CVS Health Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DCX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35002,
+    "Name": "Daimler AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_DHR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70015,
+    "Name": "Danaher Corporation"
+  },
+  {
+    "InstrumentIdentifier": "FRF_DANONE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20015,
+    "Name": "Danone"
+  },
+  {
+    "InstrumentIdentifier": "DKK_DDBC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15623075,
+    "Name": "Danske Bank A/S"
+  },
+  {
+    "InstrumentIdentifier": "FRF_DASSAULT_SY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100295,
+    "Name": "Dassault Systemes"
+  },
+  {
+    "InstrumentIdentifier": "ITL_CPR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15610847,
+    "Name": "Davide Campari - Milano SpA"
+  },
+  {
+    "InstrumentIdentifier": "USD_DVA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15728887,
+    "Name": "DaVita Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAX_CASH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15000,
+    "Name": "DAX 30"
+  },
+  {
+    "InstrumentIdentifier": "DEM_XDAX_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15773242,
+    "Name": "DAX 30 (+ X-DAX)"
+  },
+  {
+    "InstrumentIdentifier": "EUR_DAX_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875395,
+    "Name": "DAX Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAXNR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880272,
+    "Name": "DAX Net Return"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAXK_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15607043,
+    "Name": "DAX® Index (Preisindex)"
+  },
+  {
+    "InstrumentIdentifier": "EUR_ALTENGY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15654741,
+    "Name": "DAXglobal Alternative Energy"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAXBRICP_ID.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15654347,
+    "Name": "DAXglobal BRIC"
+  },
+  {
+    "InstrumentIdentifier": "USD_DE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200148,
+    "Name": "Deere and Co"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DHER.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881841,
+    "Name": "Delivery Hero SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_DAL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200150,
+    "Name": "Delta Air Lines Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DBK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35012,
+    "Name": "Deutsche Bank"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DB1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540579,
+    "Name": "Deutsche Börse AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DEQ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15624497,
+    "Name": "Deutsche Euroshop"
+  },
+  {
+    "InstrumentIdentifier": "DEM_PBB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871301,
+    "Name": "Deutsche Pfandbriefbank AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_POST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35096,
+    "Name": "Deutsche Post"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DTE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10010,
+    "Name": "Deutsche Telekom"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DWNI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15659963,
+    "Name": "Deutsche Wohnen SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_KHD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35036,
+    "Name": "Deutz"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DIALOG_SEMI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35082,
+    "Name": "Dialog Semiconductor"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15650152,
+    "Name": "DIC Asset AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DIVK_DAX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15637682,
+    "Name": "DivDAX® Kurs"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DIV_DAX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15638152,
+    "Name": "DivDAX® Performance"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJGT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70098,
+    "Name": "DJ Global Titans 50"
+  },
+  {
+    "InstrumentIdentifier": "USD_DLTR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 7310032,
+    "Name": "Dollar Tree"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJTBAS_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692653,
+    "Name": "Dow Jones Basic Resources Titans 30"
+  },
+  {
+    "InstrumentIdentifier": "USD_MINI_DJ_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875421,
+    "Name": "Dow Jones Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJTHCA_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692663,
+    "Name": "Dow Jones Health Care Titans 30"
+  },
+  {
+    "InstrumentIdentifier": "EUR_DJTHCAE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711602,
+    "Name": "Dow Jones Health Care Titans 30 EUR"
+  },
+  {
+    "InstrumentIdentifier": "USD_DOW_IND_AVG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70034,
+    "Name": "Dow Jones Industrial"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJTENG_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692671,
+    "Name": "Dow Jones Oil & Gas Titans 30"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJTNCG_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692672,
+    "Name": "Dow Jones Personal & Household Goods Titans 30"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJTTHE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692677,
+    "Name": "Dow Jones Technology Titans 30"
+  },
+  {
+    "InstrumentIdentifier": "EUR_DJTTHEE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711607,
+    "Name": "Dow Jones Technology Titans 30 EUR"
+  },
+  {
+    "InstrumentIdentifier": "USD_DJTCGS_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692681,
+    "Name": "Dow Jones Travel & Leisure Titans 30"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DRW3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100081,
+    "Name": "Drägerwerk AG Vz"
+  },
+  {
+    "InstrumentIdentifier": "USD_DBX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15891201,
+    "Name": "Dropbox Inc"
+  },
+  {
+    "InstrumentIdentifier": "NLG_DSM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100254,
+    "Name": "DSM NV"
+  },
+  {
+    "InstrumentIdentifier": "DKK_DSV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15638841,
+    "Name": "DSV"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DUERR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547581,
+    "Name": "Duerr AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_DUK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200163,
+    "Name": "Duke Energy Corp"
+  },
+  {
+    "InstrumentIdentifier": ".CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15648881,
+    "Name": "Dummy Fund"
+  },
+  {
+    "InstrumentIdentifier": "USD_DNKN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15780621,
+    "Name": "Dunkin Brands Group Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DWS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15891191,
+    "Name": "DWS Group & GmbH Co KgaA Ord Shs"
+  },
+  {
+    "InstrumentIdentifier": "DEM_E_ON_AG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15607171,
+    "Name": "E.ON SE"
+  },
+  {
+    "InstrumentIdentifier": "GBP_EZJ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15567092,
+    "Name": "easyJet plc"
+  },
+  {
+    "InstrumentIdentifier": "USD_EBAY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15606791,
+    "Name": "eBay Inc"
+  },
+  {
+    "InstrumentIdentifier": "FRF_EDF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15644242,
+    "Name": "Electricite de France"
+  },
+  {
+    "InstrumentIdentifier": "USD_EA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609467,
+    "Name": "Electronic Arts Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_LLY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200272,
+    "Name": "Eli Lilly and Co"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ZIL2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628695,
+    "Name": "ElringKlinger AG"
+  },
+  {
+    "InstrumentIdentifier": "ESP_ENDESA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 50019,
+    "Name": "Endesa"
+  },
+  {
+    "InstrumentIdentifier": "ITL_ENEL1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100361,
+    "Name": "Enel"
+  },
+  {
+    "InstrumentIdentifier": "FRF_GDF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692491,
+    "Name": "Engie"
+  },
+  {
+    "InstrumentIdentifier": "ITL_ENI1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30009,
+    "Name": "ENI Spa"
+  },
+  {
+    "InstrumentIdentifier": "DEM_EONUN01_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15878981,
+    "Name": "EonUniper"
+  },
+  {
+    "InstrumentIdentifier": "NOK_STL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548671,
+    "Name": "Equinor ASA"
+  },
+  {
+    "InstrumentIdentifier": "SEK_LME_B.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100185,
+    "Name": "Ericsson B"
+  },
+  {
+    "InstrumentIdentifier": "ATS_ERST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2130001,
+    "Name": "Erste Group Bank AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_ESSILOR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100309,
+    "Name": "Essilor Intl"
+  },
+  {
+    "InstrumentIdentifier": "EURAUD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15589315,
+    "Name": "EUR/AUD"
+  },
+  {
+    "InstrumentIdentifier": "EURCAD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15589317,
+    "Name": "EUR/CAD"
+  },
+  {
+    "InstrumentIdentifier": "EURCHF.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15559673,
+    "Name": "EUR/CHF"
+  },
+  {
+    "InstrumentIdentifier": "EURCNH.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15822991,
+    "Name": "EUR/CNH"
+  },
+  {
+    "InstrumentIdentifier": "EURDKK.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15728013,
+    "Name": "EUR/DKK"
+  },
+  {
+    "InstrumentIdentifier": "EURGBP.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15540563,
+    "Name": "EUR/GBP"
+  },
+  {
+    "InstrumentIdentifier": "EURHKD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15646231,
+    "Name": "EUR/HKD"
+  },
+  {
+    "InstrumentIdentifier": "EURHUF.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15635711,
+    "Name": "EUR/HUF"
+  },
+  {
+    "InstrumentIdentifier": "EURJPY.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15540567,
+    "Name": "EUR/JPY"
+  },
+  {
+    "InstrumentIdentifier": "EURNOK.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15646233,
+    "Name": "EUR/NOK"
+  },
+  {
+    "InstrumentIdentifier": "EURPLN.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15636911,
+    "Name": "EUR/PLN"
+  },
+  {
+    "InstrumentIdentifier": "EURSEK.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15599181,
+    "Name": "EUR/SEK"
+  },
+  {
+    "InstrumentIdentifier": "EURUSD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15540483,
+    "Name": "EUR/USD"
+  },
+  {
+    "InstrumentIdentifier": "EURZAR.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15634682,
+    "Name": "EUR/ZAR"
+  },
+  {
+    "InstrumentIdentifier": "EUR_BOBL_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875483,
+    "Name": "Euro Bobl Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "EUR_BTP_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875492,
+    "Name": "Euro BTP Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_BUND_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875523,
+    "Name": "Euro Bund Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "EUR_OAT_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875547,
+    "Name": "Euro OAT Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SCHATZ_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875572,
+    "Name": "Euro Schatz Future Sep18"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXXE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672281,
+    "Name": "EURO STOXX"
+  },
+  {
+    "InstrumentIdentifier": "ECU_SPR_STOX50E.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100000,
+    "Name": "EURO STOXX 50"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX5E_FUT_DT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875583,
+    "Name": "EURO STOXX 50 Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX5EL_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672343,
+    "Name": "EURO STOXX 50 Leveraged"
+  },
+  {
+    "InstrumentIdentifier": "EUR_STOXX50E_PE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15550684,
+    "Name": "EURO STOXX 50 Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX5TS_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672345,
+    "Name": "EURO STOXX 50 Short"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXAE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548151,
+    "Name": "EURO STOXX Automobiles & Parts"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX7E_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540551,
+    "Name": "EURO STOXX Banks"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX7T_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547305,
+    "Name": "EURO STOXX Banks Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXPE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548152,
+    "Name": "EURO STOXX Basic Resources"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX4E_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548153,
+    "Name": "EURO STOXX Chemicals"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX4T_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672322,
+    "Name": "EURO STOXX Chemicals Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXOE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548155,
+    "Name": "EURO STOXX Constr & Mat"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXFE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548161,
+    "Name": "EURO STOXX Financial Services"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX3E_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15541055,
+    "Name": "EURO STOXX Food & Beverage"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXDE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540557,
+    "Name": "EURO STOXX Health Care"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXDT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547307,
+    "Name": "EURO STOXX Health Care Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXNE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548171,
+    "Name": "EURO STOXX Industrial Gds & Serv"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXIE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540723,
+    "Name": "EURO STOXX Insurance"
+  },
+  {
+    "InstrumentIdentifier": "EUR_LCXE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672295,
+    "Name": "EURO STOXX Large"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXME_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15541057,
+    "Name": "EURO STOXX Media"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXRE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548165,
+    "Name": "EURO STOXX Retail"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXXT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672282,
+    "Name": "EURO STOXX Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SD3E_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15650791,
+    "Name": "EURO STOXX Select Dividend 30"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SD3T_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15661911,
+    "Name": "EURO STOXX Select Dividend 30 Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SCXE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672283,
+    "Name": "EURO STOXX Small"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SCXT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672285,
+    "Name": "EURO STOXX Small Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX8E_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15646431,
+    "Name": "EURO STOXX Technology"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX8T_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15670843,
+    "Name": "EURO STOXX Technology Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXKE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540555,
+    "Name": "EURO STOXX Telecommunications"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXKT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547313,
+    "Name": "EURO STOXX Telecommunications Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX6E_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540867,
+    "Name": "EURO STOXX Utilities"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX6T_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672337,
+    "Name": "EURO STOXX Utilities Return"
+  },
+  {
+    "InstrumentIdentifier": "DEM_EVK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15825913,
+    "Name": "Evonik Industries AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_EVOTEC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35053,
+    "Name": "Evotec AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_XOM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70060,
+    "Name": "Exxon Mobil Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_FFIV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609061,
+    "Name": "F5 Networks"
+  },
+  {
+    "InstrumentIdentifier": "ATS_FACC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15857012,
+    "Name": "FACC AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_FB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15812033,
+    "Name": "Facebook Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZATSP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778445,
+    "Name": "FAZ Auto und Zulieferer Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZUBNK_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778433,
+    "Name": "FAZ Banken Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZCNRE_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778441,
+    "Name": "FAZ Bau und Immobilien Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZCHMM_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778443,
+    "Name": "FAZ Chemie und Pharma Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZENER_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778455,
+    "Name": "FAZ Erneuerbare Energien Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZBSMT_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778451,
+    "Name": "FAZ Grundstoffe Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZ_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778432,
+    "Name": "FAZ Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZELEC_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778437,
+    "Name": "FAZ IT und Elektronik Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZCNGD_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778453,
+    "Name": "FAZ Konsum und Medien Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZENGN_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778447,
+    "Name": "FAZ Maschinenbau Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZINSU_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778435,
+    "Name": "FAZ Versicherungen Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FAZUTIL_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15778442,
+    "Name": "FAZ Versorger und Telekom Index"
+  },
+  {
+    "InstrumentIdentifier": "USD_FDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200180,
+    "Name": "FedEx"
+  },
+  {
+    "InstrumentIdentifier": "ITL_RACE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875051,
+    "Name": "Ferrari NV"
+  },
+  {
+    "InstrumentIdentifier": "ITL_FIAT_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30010,
+    "Name": "Fiat Chrysler Automobiles NV"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FIE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547552,
+    "Name": "Fielmann AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_FSLR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660915,
+    "Name": "First Solar"
+  },
+  {
+    "InstrumentIdentifier": "USD_FISV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609827,
+    "Name": "Fiserv Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_FIT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871011,
+    "Name": "Fitbit Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_F.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70084,
+    "Name": "Ford"
+  },
+  {
+    "InstrumentIdentifier": "USD_FOSSIL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15608975,
+    "Name": "Fossil Group Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FRA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547555,
+    "Name": "Fraport"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MOBILCOM_AG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2030002,
+    "Name": "Freenet AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_FCX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200198,
+    "Name": "Freeport-McMoRan"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FME.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100085,
+    "Name": "Fresenius Medical Care"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FRE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711972,
+    "Name": "Fresenius SE"
+  },
+  {
+    "InstrumentIdentifier": "GBP_FRES.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15694302,
+    "Name": "Fresnillo Plc"
+  },
+  {
+    "InstrumentIdentifier": "GBP_FTSE_100.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 5000,
+    "Name": "FTSE 100"
+  },
+  {
+    "InstrumentIdentifier": "ITL_SPMIB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628251,
+    "Name": "FTSE MIB"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SPMIB_FUT_ROLLING.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875832,
+    "Name": "FTSE MIB Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "DEM_FPE3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564182,
+    "Name": "Fuchs Petrolub Vz."
+  },
+  {
+    "InstrumentIdentifier": "USD_GRMN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15621403,
+    "Name": "Garmin Ltd"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_GASOIL_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875871,
+    "Name": "Gas Oil Future Aug 2018"
+  },
+  {
+    "InstrumentIdentifier": "GBPUSD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15623422,
+    "Name": "GBP/USD"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MET.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100100,
+    "Name": "GEA Group"
+  },
+  {
+    "InstrumentIdentifier": "CHF_GEBN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65033,
+    "Name": "Geberit AG"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0175.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15749932,
+    "Name": "Geely Automobile Holdings Ltd"
+  },
+  {
+    "InstrumentIdentifier": "USD_GEN_ELECTR_.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200205,
+    "Name": "General Electric"
+  },
+  {
+    "InstrumentIdentifier": "USD_GM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200208,
+    "Name": "General Motors Company"
+  },
+  {
+    "InstrumentIdentifier": "ITL_GENERALI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30012,
+    "Name": "Generali SPA"
+  },
+  {
+    "InstrumentIdentifier": "DKK_GEN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15670381,
+    "Name": "Genmab A/S"
+  },
+  {
+    "InstrumentIdentifier": "CHF_FGEZN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100218,
+    "Name": "Georg Fischer AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_GGB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15654662,
+    "Name": "Gerdau ADR"
+  },
+  {
+    "InstrumentIdentifier": "DEM_GXI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672483,
+    "Name": "Gerresheimer AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_GWIG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15624501,
+    "Name": "Gerry Weber International AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_GFT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15636581,
+    "Name": "GFT Technologies AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_GILD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15606737,
+    "Name": "Gilead Sciences Inc"
+  },
+  {
+    "InstrumentIdentifier": "CHF_GIVN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547877,
+    "Name": "Givaudan SA"
+  },
+  {
+    "InstrumentIdentifier": "GBP_GSK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540007,
+    "Name": "GlaxoSmithKline"
+  },
+  {
+    "InstrumentIdentifier": "GBP_GLEN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15773122,
+    "Name": "Glencore Xstrata International PLC"
+  },
+  {
+    "InstrumentIdentifier": "XAUUSD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540565,
+    "Name": "Gold"
+  },
+  {
+    "InstrumentIdentifier": "C_CMX_GOLD_F_Z8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875927,
+    "Name": "Gold Future Dec 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_GG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15559141,
+    "Name": "Goldcorp Inc."
+  },
+  {
+    "InstrumentIdentifier": "USD_GS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2070006,
+    "Name": "Goldman Sachs Bank USA"
+  },
+  {
+    "InstrumentIdentifier": "USD_GPRO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15608385,
+    "Name": "GoPro Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_GMM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15643613,
+    "Name": "Grammer AG"
+  },
+  {
+    "InstrumentIdentifier": "HKD_2333.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15630152,
+    "Name": "Great Wall Motor Co Ltd"
+  },
+  {
+    "InstrumentIdentifier": "USD_GRPN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15784897,
+    "Name": "Groupon Inc"
+  },
+  {
+    "InstrumentIdentifier": "GBP_GVC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877441,
+    "Name": "GVC Holdings PLC"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HHFA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15681452,
+    "Name": "Hamburger Hafen und Logistik AG"
+  },
+  {
+    "InstrumentIdentifier": "HKD_HSCEI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15622955,
+    "Name": "Hang Seng China Enterprises Index"
+  },
+  {
+    "InstrumentIdentifier": "HKD_FUTURE_N8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875957,
+    "Name": "Hang Seng Future Jul 2018"
+  },
+  {
+    "InstrumentIdentifier": "HKD_HSI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 1005000,
+    "Name": "Hang Seng Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HAN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35097,
+    "Name": "Hannover Rueck SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HLAG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15874502,
+    "Name": "Hapag-Lloyd AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_HAS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15757973,
+    "Name": "Hasbro Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HDAX_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15776201,
+    "Name": "HDAX"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_HEATOIL_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15875993,
+    "Name": "Heating Oil Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HEIDELBERG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100090,
+    "Name": "HeidelbergCement"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HEID_DRUCKM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15545951,
+    "Name": "Heidelberger Druckmaschinen AG"
+  },
+  {
+    "InstrumentIdentifier": "NLG_HEHNNV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100159,
+    "Name": "Heineken"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HLE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15865921,
+    "Name": "Hella GmbH & Co KGaA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HFG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15889201,
+    "Name": "HelloFresh SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HEN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10012,
+    "Name": "Henkel AG & Co. KGaA Pref"
+  },
+  {
+    "InstrumentIdentifier": "SEK_HMB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100187,
+    "Name": "Hennes & Mauritz B"
+  },
+  {
+    "InstrumentIdentifier": "USD_HSY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200236,
+    "Name": "Hershey Co"
+  },
+  {
+    "InstrumentIdentifier": "USD_HPQ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100275,
+    "Name": "Hewlett-Packard Co"
+  },
+  {
+    "InstrumentIdentifier": "USD_HLT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200237,
+    "Name": "Hilton Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HOCHTIEF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100092,
+    "Name": "Hochtief AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_HFC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15814651,
+    "Name": "HollyFrontier Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_HD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200238,
+    "Name": "Home Depot Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HBH3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564145,
+    "Name": "Hornbach Holding AG"
+  },
+  {
+    "InstrumentIdentifier": "GBP_HSBA_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540689,
+    "Name": "HSBC"
+  },
+  {
+    "InstrumentIdentifier": "HKD_HSCEI_FUT_Q8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15875997,
+    "Name": "HSCE Future Aug 2018"
+  },
+  {
+    "InstrumentIdentifier": "DEM_BOSS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35089,
+    "Name": "Hugo Boss AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_HYQ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15683685,
+    "Name": "Hypoport AG"
+  },
+  {
+    "InstrumentIdentifier": "ESP_IBERDROLA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 50022,
+    "Name": "Iberdrola SA"
+  },
+  {
+    "InstrumentIdentifier": "ESP_IBEX_35.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 55000,
+    "Name": "IBEX"
+  },
+  {
+    "InstrumentIdentifier": "EUR_IBEX_FUT_Q8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876043,
+    "Name": "IBEX Future Aug 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_IBM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200251,
+    "Name": "IBM"
+  },
+  {
+    "InstrumentIdentifier": "HKD_1398.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15661921,
+    "Name": "ICBC"
+  },
+  {
+    "InstrumentIdentifier": "C_EMI_EUA_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876067,
+    "Name": "ICE ECX EUA Future Dec 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_IBN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15664503,
+    "Name": "ICICI Bank Ltd ADR"
+  },
+  {
+    "InstrumentIdentifier": "UCB1TVC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15694483,
+    "Name": "ideasTV C Index"
+  },
+  {
+    "InstrumentIdentifier": "UCB1TVS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15694482,
+    "Name": "ideasTV S Index"
+  },
+  {
+    "InstrumentIdentifier": "FRF_ILD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15642662,
+    "Name": "Iliad"
+  },
+  {
+    "InstrumentIdentifier": "USD_ITW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70050,
+    "Name": "Illinois Tool Works Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_ILMN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15621653,
+    "Name": "Illumina Inc"
+  },
+  {
+    "InstrumentIdentifier": "ATS_IATX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15679351,
+    "Name": "Immobilien-ATX"
+  },
+  {
+    "InstrumentIdentifier": "ATS_IIA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15571965,
+    "Name": "Immofinanz"
+  },
+  {
+    "InstrumentIdentifier": "USD_INCY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609833,
+    "Name": "Incyte Genomics"
+  },
+  {
+    "InstrumentIdentifier": "ESP_ITX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546612,
+    "Name": "Inditex"
+  },
+  {
+    "InstrumentIdentifier": "DEM_INH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15616215,
+    "Name": "Indus Holding AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_IFX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35032,
+    "Name": "Infineon Technol"
+  },
+  {
+    "InstrumentIdentifier": "USD_INFY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609361,
+    "Name": "Infosys Ltd ADR"
+  },
+  {
+    "InstrumentIdentifier": "NLG_ING1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65010,
+    "Name": "ING"
+  },
+  {
+    "InstrumentIdentifier": "DEM_IGY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15879151,
+    "Name": "innogy SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_INTEL_CORP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15606815,
+    "Name": "Intel"
+  },
+  {
+    "InstrumentIdentifier": "USD_IBKR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15682263,
+    "Name": "Interactive Brokers Group Inc"
+  },
+  {
+    "InstrumentIdentifier": "ITL_BCO_AMBROVE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15661783,
+    "Name": "Intesa SanPaolo S.p.A."
+  },
+  {
+    "InstrumentIdentifier": "USD_INTU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2310007,
+    "Name": "Intuit Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_IRBT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15644161,
+    "Name": "iRobot"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ISR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15636592,
+    "Name": "Isra Vision AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_JBHT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15621807,
+    "Name": "JB Hunt Transport Services Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_JD_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15856272,
+    "Name": "JD.com Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_JENOPTIK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547571,
+    "Name": "Jenoptik"
+  },
+  {
+    "InstrumentIdentifier": "USD_JNJ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200257,
+    "Name": "Johnson&Johnson"
+  },
+  {
+    "InstrumentIdentifier": "USD_JPM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200316,
+    "Name": "JP Morgan Chase"
+  },
+  {
+    "InstrumentIdentifier": "CHF_BAER1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100228,
+    "Name": "Julius Baer Gruppe AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_JUNGHEINR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547561,
+    "Name": "Jungheinrich AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_KALI_+_SALZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2030011,
+    "Name": "K+S AG"
+  },
+  {
+    "InstrumentIdentifier": "BEF_KREDIETBANK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 60012,
+    "Name": "KBC Bank NV"
+  },
+  {
+    "InstrumentIdentifier": "USD_K.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200262,
+    "Name": "Kellogg Co"
+  },
+  {
+    "InstrumentIdentifier": "FRF_PINAULT_PR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20025,
+    "Name": "Kering"
+  },
+  {
+    "InstrumentIdentifier": "USD_KMB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200265,
+    "Name": "Kimberly-Clark Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_KGX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15830931,
+    "Name": "Kion Group AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_KLEPIERRE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15571973,
+    "Name": "Klepierre SA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_KCO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15653541,
+    "Name": "Kloeckner & Co SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SKB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15559143,
+    "Name": "Koenig & Bauer AG"
+  },
+  {
+    "InstrumentIdentifier": "NLG_AHOLD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65014,
+    "Name": "Koninklijke Ahold Delhaize NV"
+  },
+  {
+    "InstrumentIdentifier": "NLG_KPN_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65007,
+    "Name": "KPN"
+  },
+  {
+    "InstrumentIdentifier": "USD_KHC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871232,
+    "Name": "Kraft Heinz Company"
+  },
+  {
+    "InstrumentIdentifier": "USD_KR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200269,
+    "Name": "Kroger Co"
+  },
+  {
+    "InstrumentIdentifier": "DEM_KRONES_ORD_.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547577,
+    "Name": "Krones AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_KUD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65026,
+    "Name": "Kudelski"
+  },
+  {
+    "InstrumentIdentifier": "CHF_KUEHNE1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628371,
+    "Name": "Kuehne & Nagel Intl"
+  },
+  {
+    "InstrumentIdentifier": "DEM_KWS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15651442,
+    "Name": "KWS SAAT AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_HOLN1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547881,
+    "Name": "LafargeHolcim Ltd"
+  },
+  {
+    "InstrumentIdentifier": "FRF_LHN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871241,
+    "Name": "LafargeHolcim Ltd"
+  },
+  {
+    "InstrumentIdentifier": "USD_LRCX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15622022,
+    "Name": "Lam Research"
+  },
+  {
+    "InstrumentIdentifier": "DEM_LANXESS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15637001,
+    "Name": "Lanxess"
+  },
+  {
+    "InstrumentIdentifier": "USD_LVS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15648793,
+    "Name": "Las Vegas Sands Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_LEG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15823491,
+    "Name": "LEG Immobilien AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_LEGRAND.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20020,
+    "Name": "Legrand"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0992.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 230004,
+    "Name": "Lenovo Group"
+  },
+  {
+    "InstrumentIdentifier": "ATS_LENV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15766335,
+    "Name": "Lenzing AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_LEO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15610843,
+    "Name": "Leoni"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAXL2_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15653472,
+    "Name": "LevDAX x2"
+  },
+  {
+    "InstrumentIdentifier": "DEM_LINU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15889213,
+    "Name": "Linde AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_LIS_VZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15644175,
+    "Name": "Lindt&Sprungli AG"
+  },
+  {
+    "InstrumentIdentifier": "GBP_LLOY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 54,
+    "Name": "Lloyds Banking Group plc"
+  },
+  {
+    "InstrumentIdentifier": "USD_LMT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200276,
+    "Name": "Lockheed Martin Corp"
+  },
+  {
+    "InstrumentIdentifier": "CHF_LOGIT1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65034,
+    "Name": "Logitech International S.A."
+  },
+  {
+    "InstrumentIdentifier": "CHF_LONN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547873,
+    "Name": "Lonza"
+  },
+  {
+    "InstrumentIdentifier": "FRF_OREAL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20017,
+    "Name": "L'Oreal"
+  },
+  {
+    "InstrumentIdentifier": "DEM_LHA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10016,
+    "Name": "Lufthansa"
+  },
+  {
+    "InstrumentIdentifier": "FRF_LVMH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20021,
+    "Name": "LVMH"
+  },
+  {
+    "InstrumentIdentifier": "HUF_MATAV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15638557,
+    "Name": "Magyar Telekom"
+  },
+  {
+    "InstrumentIdentifier": "DEM_M5Z.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15693522,
+    "Name": "Manz AG"
+  },
+  {
+    "InstrumentIdentifier": "ESP_MAP1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15624177,
+    "Name": "Mapfre"
+  },
+  {
+    "InstrumentIdentifier": "USD_MA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15674021,
+    "Name": "Mastercard"
+  },
+  {
+    "InstrumentIdentifier": "USD_MCD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100274,
+    "Name": "McDonalds Corp"
+  },
+  {
+    "InstrumentIdentifier": "EUR_MDAX_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876185,
+    "Name": "MDAX Future Sep18"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MDAXNR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880273,
+    "Name": "MDAX Net Return"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MDAX_CASH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547551,
+    "Name": "MDAX TR Index"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MDG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35098,
+    "Name": "Medigene AG"
+  },
+  {
+    "InstrumentIdentifier": "ITL_MEDIOBANCA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30019,
+    "Name": "Mediobanca SpA"
+  },
+  {
+    "InstrumentIdentifier": "USD_MDT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200299,
+    "Name": "Medtronic Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MEOB4B_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15882091,
+    "Name": "MEOG.DE&CECG.DE"
+  },
+  {
+    "InstrumentIdentifier": "USD_MRK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200303,
+    "Name": "Merck & Co Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MERCK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100099,
+    "Name": "Merck KGaA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_B4B.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15882201,
+    "Name": "METRO AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_MICHELIN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20022,
+    "Name": "Michelin"
+  },
+  {
+    "InstrumentIdentifier": "USD_MU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15724943,
+    "Name": "Micron Technology Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_MICROSOFT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15606817,
+    "Name": "Microsoft"
+  },
+  {
+    "InstrumentIdentifier": "JPY_7211.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80993,
+    "Name": "Mitsubishi Motors Corporation"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MLP_AG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35094,
+    "Name": "MLP"
+  },
+  {
+    "InstrumentIdentifier": "DKK_DSACB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15624107,
+    "Name": "Moeller Maersk A/S"
+  },
+  {
+    "InstrumentIdentifier": "HUF_MOL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2520001,
+    "Name": "MOL Magyar Olaj"
+  },
+  {
+    "InstrumentIdentifier": "ITL_MONC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15837581,
+    "Name": "Moncler SpA"
+  },
+  {
+    "InstrumentIdentifier": "USD_MDLZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15818561,
+    "Name": "Mondelez International Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_MNST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609953,
+    "Name": "Monster Beverage Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_MWD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15645802,
+    "Name": "Morgan Stanley"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MOR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547762,
+    "Name": "Morphosys AG"
+  },
+  {
+    "InstrumentIdentifier": ".CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15706870,
+    "Name": "MSCI EM"
+  },
+  {
+    "InstrumentIdentifier": ".CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546444,
+    "Name": "MSCI World"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MTX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15640723,
+    "Name": "MTU Aero Engines AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_MUV_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10020,
+    "Name": "Muenchener Rueck"
+  },
+  {
+    "InstrumentIdentifier": "USD_MINI_ND_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876235,
+    "Name": "Nasdaq Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_QFON_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15809337,
+    "Name": "NASDAQ OMX CEA Smartphone Index"
+  },
+  {
+    "InstrumentIdentifier": "USD_NDX_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 7310011,
+    "Name": "Nasdaq-100 Index(R)"
+  },
+  {
+    "InstrumentIdentifier": "GBP_NG/.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15643255,
+    "Name": "National Grid PLC"
+  },
+  {
+    "InstrumentIdentifier": "FRF_CREDIT_NAT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546667,
+    "Name": "NATIXIS"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_NATGAS_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876261,
+    "Name": "Natural Gas Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_NKTR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609515,
+    "Name": "Nektar Therapeutics"
+  },
+  {
+    "InstrumentIdentifier": "DEM_NEMETSCHEK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30122,
+    "Name": "Nemetschek SE"
+  },
+  {
+    "InstrumentIdentifier": "CHF_NESN1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40008,
+    "Name": "Nestle"
+  },
+  {
+    "InstrumentIdentifier": "USD_NTES.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609585,
+    "Name": "Netease.com"
+  },
+  {
+    "InstrumentIdentifier": "USD_NFLX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15608523,
+    "Name": "Netflix Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_NEM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200329,
+    "Name": "Newmont Mining"
+  },
+  {
+    "InstrumentIdentifier": "USD_NIKE_INC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100273,
+    "Name": "Nike Inc"
+  },
+  {
+    "InstrumentIdentifier": "NIKKEI_225_CASH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 81268,
+    "Name": "Nikkei 225"
+  },
+  {
+    "InstrumentIdentifier": "JPY_7974.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80597,
+    "Name": "Nintendo"
+  },
+  {
+    "InstrumentIdentifier": "USD_NBL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15591665,
+    "Name": "Noble Energy Inc"
+  },
+  {
+    "InstrumentIdentifier": "FIM_NOKIA_OY3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 160001,
+    "Name": "Nokia"
+  },
+  {
+    "InstrumentIdentifier": "JPY_8604.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80673,
+    "Name": "Nomura Holdings"
+  },
+  {
+    "InstrumentIdentifier": "DEM_NORDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15650783,
+    "Name": "Nordex"
+  },
+  {
+    "InstrumentIdentifier": "USD_NSC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200335,
+    "Name": "Norfolk Southern Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_NOEJ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15765461,
+    "Name": "NORMA Group SE"
+  },
+  {
+    "InstrumentIdentifier": "NOK_NHY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2260050,
+    "Name": "Norsk Hydro"
+  },
+  {
+    "InstrumentIdentifier": "CHF_NOVN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40010,
+    "Name": "Novartis"
+  },
+  {
+    "InstrumentIdentifier": "DKK_NVOB1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15623077,
+    "Name": "Novo-Nordisk B"
+  },
+  {
+    "InstrumentIdentifier": "USD_NTNX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15882531,
+    "Name": "Nutanix Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_NTR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15889961,
+    "Name": "Nutrien Ltd"
+  },
+  {
+    "InstrumentIdentifier": "USD_NVDA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15544403,
+    "Name": "NVIDIA"
+  },
+  {
+    "InstrumentIdentifier": "ATS_POST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15650182,
+    "Name": "Oesterreichische Post AG"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_Z8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876345,
+    "Name": "Oil Brent Future Dec 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_Z9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15882067,
+    "Name": "Oil Brent Future Dec 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_M9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880412,
+    "Name": "Oil Brent Future Jun 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_H9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15879355,
+    "Name": "Oil Brent Future Mar 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_X8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871665,
+    "Name": "Oil Brent Future Nov 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_V8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876357,
+    "Name": "Oil Brent Future Oct 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876361,
+    "Name": "Oil Brent Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_IPE_BRENT_F_U9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881442,
+    "Name": "Oil Brent Future Sep 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_Z8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871661,
+    "Name": "Oil WTI Light Crude Future Dec 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_Z9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881507,
+    "Name": "Oil WTI Light Crude Future Dec 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_M9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880415,
+    "Name": "Oil WTI Light Crude Future Jun 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_H9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15879357,
+    "Name": "Oil WTI Light Crude Future Mar 2019"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_X8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876375,
+    "Name": "Oil WTI Light Crude Future Nov 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_V8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876377,
+    "Name": "Oil WTI Light Crude Future Oct 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876381,
+    "Name": "Oil WTI Light Crude Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_CRUDE_F_U9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881445,
+    "Name": "Oil WTI Light Crude Future Sep 2019"
+  },
+  {
+    "InstrumentIdentifier": "ATS_OMV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100006,
+    "Name": "OMV AG"
+  },
+  {
+    "InstrumentIdentifier": "SEK_OMX_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 180010,
+    "Name": "OMXS30"
+  },
+  {
+    "InstrumentIdentifier": "USD_ONNN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15687762,
+    "Name": "ON Semiconductor Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_ORCL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200346,
+    "Name": "Oracle Corp"
+  },
+  {
+    "InstrumentIdentifier": "FRF_FRANCE_TEL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20013,
+    "Name": "Orange"
+  },
+  {
+    "InstrumentIdentifier": "C_NBOT_OJ_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15876423,
+    "Name": "Orange Juice Future Sep 18"
+  },
+  {
+    "InstrumentIdentifier": "USD_ORLY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15633765,
+    "Name": "O'Reilly Automotive Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_OSR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15831171,
+    "Name": "Osram Licht AG"
+  },
+  {
+    "InstrumentIdentifier": "HUF_OTP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2520002,
+    "Name": "OTP Bank"
+  },
+  {
+    "InstrumentIdentifier": "XPDUSD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15626093,
+    "Name": "Palladium"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_PALL_F_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876465,
+    "Name": "Palladium Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_PAAS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15697221,
+    "Name": "Pan American Silver Corp"
+  },
+  {
+    "InstrumentIdentifier": "CHF_PWTN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15642663,
+    "Name": "Panalpina WeltTransport Holding AG"
+  },
+  {
+    "InstrumentIdentifier": "JPY_6752.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80132,
+    "Name": "Panasonic Corp"
+  },
+  {
+    "InstrumentIdentifier": "DKK_PNDORA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15749212,
+    "Name": "Pandora Aktieselskabet"
+  },
+  {
+    "InstrumentIdentifier": "CHF_PARG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65020,
+    "Name": "Pargesa Holding SA"
+  },
+  {
+    "InstrumentIdentifier": "USD_PYPL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871311,
+    "Name": "PayPal Holdings Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_PEP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200360,
+    "Name": "PepsiCo"
+  },
+  {
+    "InstrumentIdentifier": "FRF_PERNOD_R.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100051,
+    "Name": "Pernod-Ricard"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0857.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 230007,
+    "Name": "Petrochina"
+  },
+  {
+    "InstrumentIdentifier": "USD_PTR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15628511,
+    "Name": "Petrochina ADR"
+  },
+  {
+    "InstrumentIdentifier": "USD_PETR_BRASIL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15636031,
+    "Name": "Petroleo Brasileiro ADR"
+  },
+  {
+    "InstrumentIdentifier": "FRF_PEUGEOT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20024,
+    "Name": "Peugeot"
+  },
+  {
+    "InstrumentIdentifier": "DEM_PV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30124,
+    "Name": "Pfeiffer Vacuum Technology AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_PFE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200362,
+    "Name": "Pfizer Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_PM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15686701,
+    "Name": "Philip Morris International Inc."
+  },
+  {
+    "InstrumentIdentifier": "NLG_PHILIPS_4.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65016,
+    "Name": "Philips"
+  },
+  {
+    "InstrumentIdentifier": "USD_PSXW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15816213,
+    "Name": "Phillips 66"
+  },
+  {
+    "InstrumentIdentifier": "HKD_2318.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634615,
+    "Name": "Ping An Insurance Group"
+  },
+  {
+    "InstrumentIdentifier": "XPTUSD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15622385,
+    "Name": "Platinum"
+  },
+  {
+    "InstrumentIdentifier": "C_NMX_PLAT_F_V8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876477,
+    "Name": "Platinum Future Oct 2018"
+  },
+  {
+    "InstrumentIdentifier": "DEM_PORSCHE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100101,
+    "Name": "Porsche Automobil Holding SE"
+  },
+  {
+    "InstrumentIdentifier": "ITL_PST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15874561,
+    "Name": "Poste Italiane SpA"
+  },
+  {
+    "InstrumentIdentifier": ".CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15713693,
+    "Name": "Private Equity Basket"
+  },
+  {
+    "InstrumentIdentifier": "USD_PG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200377,
+    "Name": "Procter & Gamble"
+  },
+  {
+    "InstrumentIdentifier": "DEM_PRO7_SAT1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100102,
+    "Name": "ProSiebenSat.1 Media SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_PRLB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15836732,
+    "Name": "Proto Labs Inc"
+  },
+  {
+    "InstrumentIdentifier": "GBP_PRU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 68,
+    "Name": "Prudential PLC"
+  },
+  {
+    "InstrumentIdentifier": "CHF_PSPN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15632042,
+    "Name": "PSP Swiss Property AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_PUBLICIS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2040022,
+    "Name": "Publicis"
+  },
+  {
+    "InstrumentIdentifier": "DEM_PUMA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100103,
+    "Name": "Puma AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_QGEN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2030001,
+    "Name": "Qiagen"
+  },
+  {
+    "InstrumentIdentifier": "USD_QRVO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609147,
+    "Name": "Qorvo Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_QSC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15624173,
+    "Name": "QSC AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_QCOM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 7310059,
+    "Name": "Qualcomm Inc"
+  },
+  {
+    "InstrumentIdentifier": "ATS_RIBH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15638261,
+    "Name": "Raiffeisen Bank International AG"
+  },
+  {
+    "InstrumentIdentifier": "NLG_RSTD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100168,
+    "Name": "Randstad NV"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RAA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564163,
+    "Name": "Rational AG"
+  },
+  {
+    "InstrumentIdentifier": "GBP_RCOL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 71,
+    "Name": "Reckitt Benckiser Group Plc"
+  },
+  {
+    "InstrumentIdentifier": "USD_REGN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15631802,
+    "Name": "Regeneron Pharm"
+  },
+  {
+    "InstrumentIdentifier": "NLG_ELSEVIER.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65013,
+    "Name": "RELX NV"
+  },
+  {
+    "InstrumentIdentifier": "FRF_RENAULT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20027,
+    "Name": "Renault"
+  },
+  {
+    "InstrumentIdentifier": "ESP_REPSOL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 50025,
+    "Name": "Repsol SA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RHEINMETALL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547563,
+    "Name": "Rheinmetall"
+  },
+  {
+    "InstrumentIdentifier": "ATS_RHIM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15888991,
+    "Name": "RHI-MAG NV"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RHK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547583,
+    "Name": "Rhoen Klinikum AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RSTA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15763585,
+    "Name": "RIB Software SE"
+  },
+  {
+    "InstrumentIdentifier": "CHF_CFR2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547891,
+    "Name": "Richemont"
+  },
+  {
+    "InstrumentIdentifier": "HUF_RICHT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547197,
+    "Name": "Richter Gedeon NYRT"
+  },
+  {
+    "InstrumentIdentifier": "GBP_RIO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 75,
+    "Name": "Rio Tinto plc"
+  },
+  {
+    "InstrumentIdentifier": "USD_RTP_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15814161,
+    "Name": "Rio Tinto PLC ADR"
+  },
+  {
+    "InstrumentIdentifier": "CHF_ROCHE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40011,
+    "Name": "Roche Holding Gs"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RKET.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15865061,
+    "Name": "Rocket Internet AG"
+  },
+  {
+    "InstrumentIdentifier": "GBP_RBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 78,
+    "Name": "Royal Bank of Scotland Group Plc"
+  },
+  {
+    "InstrumentIdentifier": "NLG_RDSA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540003,
+    "Name": "Royal Dutch Shell A"
+  },
+  {
+    "InstrumentIdentifier": "GBP_RMG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15835191,
+    "Name": "Royal Mail PLC"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RTL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15829933,
+    "Name": "RTL Group SA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_RWE_NEW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10022,
+    "Name": "RWE AG"
+  },
+  {
+    "InstrumentIdentifier": "GBP_RYA_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15556827,
+    "Name": "Ryanair"
+  },
+  {
+    "InstrumentIdentifier": "IEP_RYA2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15560183,
+    "Name": "Ryanair Holdings PLC"
+  },
+  {
+    "InstrumentIdentifier": "S+P500_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200000,
+    "Name": "S&P 500"
+  },
+  {
+    "InstrumentIdentifier": "EUR_BRIC40_INDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711642,
+    "Name": "S&P BRIC 40 EUR"
+  },
+  {
+    "InstrumentIdentifier": "AUD_SP_ASX_200.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548381,
+    "Name": "S&P&ASX 200"
+  },
+  {
+    "InstrumentIdentifier": "USD_MINI_SP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876581,
+    "Name": "S&P500 Future Sep18"
+  },
+  {
+    "InstrumentIdentifier": "DEM_GERI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15575572,
+    "Name": "S&T AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SFQ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15674555,
+    "Name": "SAF Holland S.A."
+  },
+  {
+    "InstrumentIdentifier": "FRF_SAG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540413,
+    "Name": "Safran"
+  },
+  {
+    "InstrumentIdentifier": "FRF_ST_GOBAIN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547871,
+    "Name": "Saint Gobain"
+  },
+  {
+    "InstrumentIdentifier": "USD_CRM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15691862,
+    "Name": "Salesforce com"
+  },
+  {
+    "InstrumentIdentifier": "ITL_SFER.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15806445,
+    "Name": "Salvatore Ferragamo SpA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SZG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547593,
+    "Name": "Salzgitter AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_SMSN_IOB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15646031,
+    "Name": "Samsung Electronics Co Ltd GDR"
+  },
+  {
+    "InstrumentIdentifier": "FRF_SANOFI_SYNT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 45002,
+    "Name": "Sanofi SA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SAP_P.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100107,
+    "Name": "SAP"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SRT3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564142,
+    "Name": "Sartorius AG Pref"
+  },
+  {
+    "InstrumentIdentifier": "SEK_SAS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15655411,
+    "Name": "SAS AB"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SHA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15874311,
+    "Name": "Schaeffler AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_SCHP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100238,
+    "Name": "Schindler PC"
+  },
+  {
+    "InstrumentIdentifier": "USD_SLB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200401,
+    "Name": "Schlumberger Ltd"
+  },
+  {
+    "InstrumentIdentifier": "FRF_SCHNEIDER.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20031,
+    "Name": "Schneider Electric SA"
+  },
+  {
+    "InstrumentIdentifier": "ATS_SBO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15637973,
+    "Name": "Schoeller-Bleckmann"
+  },
+  {
+    "InstrumentIdentifier": "DEM_G24.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15871901,
+    "Name": "Scout24 AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SDAX_CASH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564115,
+    "Name": "SDAX"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SGL_CARBON.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100109,
+    "Name": "SGL Carbon SE"
+  },
+  {
+    "InstrumentIdentifier": "USD_SHAK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15867191,
+    "Name": "Shake Shack Inc"
+  },
+  {
+    "InstrumentIdentifier": "JPY_4911.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80639,
+    "Name": "Shiseido Co Ltd"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SAE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15889252,
+    "Name": "Shop Apotheke Europe NV"
+  },
+  {
+    "InstrumentIdentifier": "USD_SHOP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881471,
+    "Name": "Shopify Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_DAXS_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711641,
+    "Name": "ShortDAX"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SIE_N.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35011,
+    "Name": "Siemens AG"
+  },
+  {
+    "InstrumentIdentifier": "ESP_GML.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15544429,
+    "Name": "Siemens Gamesa Renewable Energy SA"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SHL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15891151,
+    "Name": "Siemens Healthineers AG"
+  },
+  {
+    "InstrumentIdentifier": "XAGUSD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15562305,
+    "Name": "Silber"
+  },
+  {
+    "InstrumentIdentifier": "DEM_WAF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15870501,
+    "Name": "Siltronic AG"
+  },
+  {
+    "InstrumentIdentifier": "C_CMX_SILV_F_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876797,
+    "Name": "Silver Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_SINA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15759803,
+    "Name": "Sina Corporation"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0386.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15622987,
+    "Name": "Sinopec"
+  },
+  {
+    "InstrumentIdentifier": "HKD_1099.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15725972,
+    "Name": "Sinopharm Group"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SIXT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 35039,
+    "Name": "Sixt"
+  },
+  {
+    "InstrumentIdentifier": "USD_SWKS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15767513,
+    "Name": "Skyworks Solutions Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_S92.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15691782,
+    "Name": "SMA Solar Technology AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_SMI_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 45000,
+    "Name": "SMI"
+  },
+  {
+    "InstrumentIdentifier": "CHF_SMI_FUT_NEW_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876805,
+    "Name": "SMI Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USD_SNAP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880541,
+    "Name": "Snap Inc"
+  },
+  {
+    "InstrumentIdentifier": "FRF_SOC_GEN_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20034,
+    "Name": "Societe Generale"
+  },
+  {
+    "InstrumentIdentifier": "JPY_9984.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80173,
+    "Name": "Softbank Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SOW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540419,
+    "Name": "Software AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_SOHU.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15609892,
+    "Name": "Sohu.com Inc."
+  },
+  {
+    "InstrumentIdentifier": "EUR_SBDIMAX_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711622,
+    "Name": "Solactive DIMAX Deutschland Performance-Index"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SBLUXUS_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711632,
+    "Name": "Solactive Luxus & Lifestyle Performance-Index"
+  },
+  {
+    "InstrumentIdentifier": "USD_SBSHV_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711635,
+    "Name": "Solactive Sicherungsverwahrung Performance-Index"
+  },
+  {
+    "InstrumentIdentifier": "BEF_SOLVAY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 60016,
+    "Name": "Solvay"
+  },
+  {
+    "InstrumentIdentifier": "CHF_PHBN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100234,
+    "Name": "Sonova Holding AG"
+  },
+  {
+    "InstrumentIdentifier": "JPY_6758.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80811,
+    "Name": "Sony"
+  },
+  {
+    "InstrumentIdentifier": "USD_JPY6758_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634107,
+    "Name": "Sony ADR"
+  },
+  {
+    "InstrumentIdentifier": "USD_LUV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200417,
+    "Name": "Southwest Airlines Co"
+  },
+  {
+    "InstrumentIdentifier": "USD_SPOT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15891381,
+    "Name": "Spotify Technology SA"
+  },
+  {
+    "InstrumentIdentifier": "USD_SQ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15882057,
+    "Name": "Square Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_STAG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15589375,
+    "Name": "Stada-Arzneimittel"
+  },
+  {
+    "InstrumentIdentifier": "GBP_STAN1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 89,
+    "Name": "Standard Chartered PLC"
+  },
+  {
+    "InstrumentIdentifier": "USD_SBUX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15607692,
+    "Name": "Starbucks Corporation"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SNH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15874813,
+    "Name": "Steinhoff International Holdings NV"
+  },
+  {
+    "InstrumentIdentifier": "FRF_STM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20032,
+    "Name": "STMicroelectronics"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STOXX50.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 190000,
+    "Name": "STOXX 50"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX5_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876902,
+    "Name": "STOXX 50 Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX5R_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15661913,
+    "Name": "STOXX 50 Return"
+  },
+  {
+    "InstrumentIdentifier": "ECU_SPR_STX600P.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15646452,
+    "Name": "STOXX 600"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXAP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876911,
+    "Name": "STOXX 600 Auto Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX7P_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876917,
+    "Name": "STOXX 600 Banks Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXPP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876925,
+    "Name": "STOXX 600 Basic Resources Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX4P_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876933,
+    "Name": "STOXX 600 Chemicals Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXOP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876942,
+    "Name": "STOXX 600 Construction & Materials Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXFP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876951,
+    "Name": "STOXX 600 Financial Services Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX3P_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876957,
+    "Name": "STOXX 600 Food & Beverage Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXDP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876965,
+    "Name": "STOXX 600 Health Care Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXNP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876973,
+    "Name": "STOXX 600 Industrial Goods & Serv Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXIP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876982,
+    "Name": "STOXX 600 Insurance Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXMP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876991,
+    "Name": "STOXX 600 Media Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXEP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15876997,
+    "Name": "STOXX 600 Oil & Gas Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXQP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877005,
+    "Name": "STOXX 600 Personal & Household Gds Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX86P_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877013,
+    "Name": "STOXX 600 Real Estate Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXRP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877022,
+    "Name": "STOXX 600 Retail Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX8P_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877031,
+    "Name": "STOXX 600 Technology Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXKP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877037,
+    "Name": "STOXX 600 Telecom Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXTP_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877045,
+    "Name": "STOXX 600 Travel & Leisure Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX6P_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877053,
+    "Name": "STOXX 600 Utilities Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "EUR_EUE15P_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15670831,
+    "Name": "STOXX EU Enlarged 15"
+  },
+  {
+    "InstrumentIdentifier": "EUR_EUETMP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711612,
+    "Name": "STOXX Eu Enlarged TMI"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_AUTO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540929,
+    "Name": "STOXX Europe 600 Automobiles & Parts Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX7R_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660273,
+    "Name": "STOXX Europe 600 Banks NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_BANKS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540449,
+    "Name": "STOXX Europe 600 Banks Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXPR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660262,
+    "Name": "STOXX Europe 600 Basic Resources NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_BASIC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540931,
+    "Name": "STOXX Europe 600 Basic Resources Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX4R_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660261,
+    "Name": "STOXX Europe 600 Chemicals NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_CHEM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540447,
+    "Name": "STOXX Europe 600 Chemicals Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXOR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660281,
+    "Name": "STOXX Europe 600 Construction & Materials NR"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXOP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15669671,
+    "Name": "STOXX Europe 600 Construction & Materials Price"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_FSV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540433,
+    "Name": "STOXX Europe 600 Financial Services Price"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_F&B.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540443,
+    "Name": "STOXX Europe 600 Food & Beverage Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX3R_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660271,
+    "Name": "STOXX Europe 600 Food & Beverages NR"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXDR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660267,
+    "Name": "STOXX Europe 600 Health Care NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_PHARM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15021,
+    "Name": "STOXX Europe 600 Health Care Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXNR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660282,
+    "Name": "STOXX Europe 600 Ind. Goods & Services NR"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXNP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540441,
+    "Name": "STOXX Europe 600 Industrial Goods & Services Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXIR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660275,
+    "Name": "STOXX Europe 600 Insurance NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_INSUR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540439,
+    "Name": "STOXX Europe 600 Insurance Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXMR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660263,
+    "Name": "STOXX Europe 600 Media NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_MEDIA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 190003,
+    "Name": "STOXX Europe 600 Media Price"
+  },
+  {
+    "InstrumentIdentifier": "ECU_SPR_STX600R.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660257,
+    "Name": "STOXX Europe 600 NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_ENERGY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540445,
+    "Name": "STOXX Europe 600 Oil & Gas Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXRP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15648577,
+    "Name": "STOXX Europe 600 Retail Price"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_TECH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 140019,
+    "Name": "STOXX Europe 600 Technology Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXKR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660285,
+    "Name": "STOXX Europe 600 Telecommunications NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_TELEKOM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15019,
+    "Name": "STOXX Europe 600 Telecommunications Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXTR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660253,
+    "Name": "STOXX Europe 600 Travel & Leisure NR"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXTP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15648581,
+    "Name": "STOXX Europe 600 Travel & Leisure Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SX6R_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660287,
+    "Name": "STOXX Europe 600 Utilities NR"
+  },
+  {
+    "InstrumentIdentifier": "ECU_STX_UTILITY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540435,
+    "Name": "STOXX Europe 600 Utilities Price"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SXAR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660265,
+    "Name": "STOXX Europe 600Automobiles & Parts NR"
+  },
+  {
+    "InstrumentIdentifier": "EUR_LCXR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672301,
+    "Name": "STOXX Large 200 Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_DK5F_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672311,
+    "Name": "STOXX NORDIC 30"
+  },
+  {
+    "InstrumentIdentifier": "EUR_DK5G_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15672312,
+    "Name": "STOXX NORDIC 30 Return"
+  },
+  {
+    "InstrumentIdentifier": "EUR_SD3R_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15661912,
+    "Name": "STOXX Select Dividend 30 Return"
+  },
+  {
+    "InstrumentIdentifier": "USD_SSYS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15767587,
+    "Name": "Stratasys Ltd"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SBS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15729571,
+    "Name": "STRATEC Biomedical AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SAX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15735971,
+    "Name": "Stroeer SE & Co KGaA"
+  },
+  {
+    "InstrumentIdentifier": "USD_SYK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540069,
+    "Name": "Stryker Corporation"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SUEDZUC_ORD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547557,
+    "Name": "Suedzucker AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SMH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547755,
+    "Name": "SUESS MicroTec SE"
+  },
+  {
+    "InstrumentIdentifier": "FRF_SUEZ_ENV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15692647,
+    "Name": "Suez Environnement"
+  },
+  {
+    "InstrumentIdentifier": "C_NBOT_SUGAR_F_ULTURBOS.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15877075,
+    "Name": "Sugar Future Oct 18"
+  },
+  {
+    "InstrumentIdentifier": "CHF_SUN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547892,
+    "Name": "Sulzer AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_UHR1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40013,
+    "Name": "Swatch Group B"
+  },
+  {
+    "InstrumentIdentifier": "SEK_SWMA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100201,
+    "Name": "Swedish Match AB"
+  },
+  {
+    "InstrumentIdentifier": "CHF_RANE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15569027,
+    "Name": "Swiss Life"
+  },
+  {
+    "InstrumentIdentifier": "CHF_SREN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 40017,
+    "Name": "Swiss Re AG"
+  },
+  {
+    "InstrumentIdentifier": "CHF_SWISSCOM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 2060000,
+    "Name": "Swisscom"
+  },
+  {
+    "InstrumentIdentifier": "USD_SYMC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15610872,
+    "Name": "Symantec Corp"
+  },
+  {
+    "InstrumentIdentifier": "DEM_SYM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15661063,
+    "Name": "Symrise"
+  },
+  {
+    "InstrumentIdentifier": "DEM_TEG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564121,
+    "Name": "TAG Immobilien AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_TTWO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15767277,
+    "Name": "Take-Two Interactive Software"
+  },
+  {
+    "InstrumentIdentifier": "DEM_TAKKT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15564135,
+    "Name": "Takkt AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_TLX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15818281,
+    "Name": "Talanx AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_TTM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15645862,
+    "Name": "Tata Motors ADR"
+  },
+  {
+    "InstrumentIdentifier": "TECDAX_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15617865,
+    "Name": "TecDAX"
+  },
+  {
+    "InstrumentIdentifier": "EUR_TECDAX_FUT_U8.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877103,
+    "Name": "TecDAX Future Sep18"
+  },
+  {
+    "InstrumentIdentifier": "TECDAXNR_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15880275,
+    "Name": "TECDAX Net Return"
+  },
+  {
+    "InstrumentIdentifier": "ITL_TLIT1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30029,
+    "Name": "Telecom Italia"
+  },
+  {
+    "InstrumentIdentifier": "ESP_TEF.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 50029,
+    "Name": "Telefonica"
+  },
+  {
+    "InstrumentIdentifier": "DEM_O2D.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15820141,
+    "Name": "Telefónica Deutschland Holding AG"
+  },
+  {
+    "InstrumentIdentifier": "NOK_TEL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548412,
+    "Name": "Telenor"
+  },
+  {
+    "InstrumentIdentifier": "SEK_TLIA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 180028,
+    "Name": "Telia Co AB"
+  },
+  {
+    "InstrumentIdentifier": "HKD_0700.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15690982,
+    "Name": "Tencent Holdings Ltd"
+  },
+  {
+    "InstrumentIdentifier": "GBP_TSCO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 91,
+    "Name": "Tesco PLC"
+  },
+  {
+    "InstrumentIdentifier": "USD_TSLA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15734532,
+    "Name": "Tesla Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_TEVA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546691,
+    "Name": "Teva ADR"
+  },
+  {
+    "InstrumentIdentifier": "USD_TXN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200441,
+    "Name": "Texas Instruments Inc"
+  },
+  {
+    "InstrumentIdentifier": "FRF_THOMSON.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20036,
+    "Name": "Thales"
+  },
+  {
+    "InstrumentIdentifier": "USD_TRV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15665583,
+    "Name": "The Travelers Companies, Inc."
+  },
+  {
+    "InstrumentIdentifier": "DEM_TKA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10026,
+    "Name": "Thyssen Krupp AG"
+  },
+  {
+    "InstrumentIdentifier": "ITL_TOD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15548817,
+    "Name": "Tod's SpA"
+  },
+  {
+    "InstrumentIdentifier": "NLG_TOMTOM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15645571,
+    "Name": "TomTom"
+  },
+  {
+    "InstrumentIdentifier": "JPY_TOPIX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 81245,
+    "Name": "TOPIX"
+  },
+  {
+    "InstrumentIdentifier": "JPY_TOPIX_PERFO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15820027,
+    "Name": "TOPIX DV"
+  },
+  {
+    "InstrumentIdentifier": "JPY_6502.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80460,
+    "Name": "Toshiba"
+  },
+  {
+    "InstrumentIdentifier": "FRF_TOTAL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20037,
+    "Name": "Total"
+  },
+  {
+    "InstrumentIdentifier": "USD_TM_ADR_NEW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634111,
+    "Name": "Toyota Motor ADR"
+  },
+  {
+    "InstrumentIdentifier": "JPY_7203.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 80950,
+    "Name": "Toyota Motor Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_TDG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15767437,
+    "Name": "TransDigm Group Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_TRIP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15808011,
+    "Name": "TripAdvisor Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_PRS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10021,
+    "Name": "TUI"
+  },
+  {
+    "InstrumentIdentifier": "USD_TWTR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15836212,
+    "Name": "Twitter Inc"
+  },
+  {
+    "InstrumentIdentifier": "CHF_UBSG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15866291,
+    "Name": "UBS Group AG"
+  },
+  {
+    "InstrumentIdentifier": "BEF_UCB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 60018,
+    "Name": "UCB SA"
+  },
+  {
+    "InstrumentIdentifier": "USD_UA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15689622,
+    "Name": "Under Armour Inc"
+  },
+  {
+    "InstrumentIdentifier": "ITL_CRED_ITALIA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30007,
+    "Name": "UniCredit"
+  },
+  {
+    "InstrumentIdentifier": "NLG_UNILEVER_2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65011,
+    "Name": "Unilever Cert"
+  },
+  {
+    "InstrumentIdentifier": "USD_UNP.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200465,
+    "Name": "Union Pacific Corporation"
+  },
+  {
+    "InstrumentIdentifier": "DEM_UN01.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15878992,
+    "Name": "Uniper SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_UN_INTERNE2.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 30131,
+    "Name": "United Internet"
+  },
+  {
+    "InstrumentIdentifier": "USD_UTX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200469,
+    "Name": "United Tech"
+  },
+  {
+    "InstrumentIdentifier": "USD_UNH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200468,
+    "Name": "Unitedhealth Group Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_X.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200476,
+    "Name": "US Steel Corp"
+  },
+  {
+    "InstrumentIdentifier": "US_20YR_(CBOT)_FUT_ULTURBOS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877207,
+    "Name": "US Treasury Bond Future Sep 2018"
+  },
+  {
+    "InstrumentIdentifier": "USDCAD.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15653473,
+    "Name": "USD/CAD"
+  },
+  {
+    "InstrumentIdentifier": "USDCHF.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15559665,
+    "Name": "USD/CHF"
+  },
+  {
+    "InstrumentIdentifier": "USDCNH.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15822982,
+    "Name": "USD/CNH"
+  },
+  {
+    "InstrumentIdentifier": "USDJPY.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15540485,
+    "Name": "USD/JPY"
+  },
+  {
+    "InstrumentIdentifier": "USDZAR.CBUL",
+    "DecimalPlaces": 4,
+    "Id": 15646202,
+    "Name": "USD/ZAR"
+  },
+  {
+    "InstrumentIdentifier": "USD_RIO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15635471,
+    "Name": "Vale S.A. ADR"
+  },
+  {
+    "InstrumentIdentifier": "FRF_VALEO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 20039,
+    "Name": "Valeo"
+  },
+  {
+    "InstrumentIdentifier": "USD_VLO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15631837,
+    "Name": "Valero Energy Corp"
+  },
+  {
+    "InstrumentIdentifier": "FRF_VALLOUREC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100065,
+    "Name": "Vallourec"
+  },
+  {
+    "InstrumentIdentifier": "DEM_VAO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15881842,
+    "Name": "Vapiano SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_VAR1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15888953,
+    "Name": "Varta AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_VIVENDI_ENV.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 45017,
+    "Name": "Veolia Environnement"
+  },
+  {
+    "InstrumentIdentifier": "ATS_OEEW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546085,
+    "Name": "Verbund AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_VZ.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70083,
+    "Name": "Verizon"
+  },
+  {
+    "InstrumentIdentifier": "DKK_VWS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 250001,
+    "Name": "Vestas Wind Systems A/S"
+  },
+  {
+    "InstrumentIdentifier": "USD_VFC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200477,
+    "Name": "VF Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_VIAB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 7070086,
+    "Name": "Viacom Inc"
+  },
+  {
+    "InstrumentIdentifier": "ATS_WST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15637323,
+    "Name": "Vienna Insurance Group AG"
+  },
+  {
+    "InstrumentIdentifier": "FRF_SGE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540932,
+    "Name": "Vinci"
+  },
+  {
+    "InstrumentIdentifier": "USD_V.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15686261,
+    "Name": "Visa Inc."
+  },
+  {
+    "InstrumentIdentifier": "FRF_VIVENDI_UNI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15540523,
+    "Name": "Vivendi"
+  },
+  {
+    "InstrumentIdentifier": "USD_VIX_FUT_TURBO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877231,
+    "Name": "VIX CBOE Volatility Index Future Aug 2018"
+  },
+  {
+    "InstrumentIdentifier": "GBP_VOD.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 97,
+    "Name": "Vodafone Group"
+  },
+  {
+    "InstrumentIdentifier": "ATS_VAST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15634531,
+    "Name": "voestalpine"
+  },
+  {
+    "InstrumentIdentifier": "DEM_VOW.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 10029,
+    "Name": "Volkswagen AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_VOW3.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100113,
+    "Name": "Volkswagen AG Preferred Stock"
+  },
+  {
+    "InstrumentIdentifier": "SEK_VOLVB.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100203,
+    "Name": "Volvo B"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ANNI.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15830932,
+    "Name": "Vonovia SE "
+  },
+  {
+    "InstrumentIdentifier": "CHF_VON1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200504,
+    "Name": "Vontobel Holding AG"
+  },
+  {
+    "InstrumentIdentifier": "NLG_VPK.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 140009,
+    "Name": "Vopak NV"
+  },
+  {
+    "InstrumentIdentifier": "DEM_VOSSLOH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15547603,
+    "Name": "Vossloh"
+  },
+  {
+    "InstrumentIdentifier": "EUR_VSTOXX_FUT_TURBO.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15877253,
+    "Name": "VSTOXX Future Aug 2018"
+  },
+  {
+    "InstrumentIdentifier": "DEM_VT9.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15694342,
+    "Name": "VTG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_WCH.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15648241,
+    "Name": "Wacker Chemie AG"
+  },
+  {
+    "InstrumentIdentifier": "DEM_WAC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15671231,
+    "Name": "Wacker Neuson"
+  },
+  {
+    "InstrumentIdentifier": "USD_WAG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200482,
+    "Name": "Walgreens Boots Alliance Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_WMT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200481,
+    "Name": "Walmart Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_DIS.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200483,
+    "Name": "Walt Disney Co"
+  },
+  {
+    "InstrumentIdentifier": "USD_WFT.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15633942,
+    "Name": "Weatherford International PLC"
+  },
+  {
+    "InstrumentIdentifier": "USD_WB_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15854851,
+    "Name": "Weibo Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_WFC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 70012,
+    "Name": "Wells Fargo & Co"
+  },
+  {
+    "InstrumentIdentifier": "FRF_UNIBAIL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15824471,
+    "Name": "WFD Unibail-Rodamco"
+  },
+  {
+    "InstrumentIdentifier": "ATS_WBST.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15546092,
+    "Name": "Wienerberger"
+  },
+  {
+    "InstrumentIdentifier": "PLN_WIG20_INDEX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15640862,
+    "Name": "WIG 20"
+  },
+  {
+    "InstrumentIdentifier": "DEM_IGPG.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15660942,
+    "Name": "Wirecard"
+  },
+  {
+    "InstrumentIdentifier": "NLG_WLSNC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 100253,
+    "Name": "Wolters Kluwer"
+  },
+  {
+    "InstrumentIdentifier": "USD_WDAY.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15822353,
+    "Name": "Workday Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_WWE.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15766925,
+    "Name": "World Wrestling Entertainment Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_WYNN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15638311,
+    "Name": "Wynn Resorts"
+  },
+  {
+    "InstrumentIdentifier": "DEM_TECALLP_IDX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15711643,
+    "Name": "XET Technology All Share"
+  },
+  {
+    "InstrumentIdentifier": "HKD_1810.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15894372,
+    "Name": "Xiaomi Corp"
+  },
+  {
+    "InstrumentIdentifier": "USD_XLNX.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 7310074,
+    "Name": "Xilinx"
+  },
+  {
+    "InstrumentIdentifier": "DEM_OBC.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15669162,
+    "Name": "XING SE"
+  },
+  {
+    "InstrumentIdentifier": "NOK_YAR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15630275,
+    "Name": "Yara International ASA"
+  },
+  {
+    "InstrumentIdentifier": "USD_YUM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 200455,
+    "Name": "Yum! Brands Inc"
+  },
+  {
+    "InstrumentIdentifier": "USD_YY_ADR.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15854941,
+    "Name": "YY Inc"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ZAL.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15864862,
+    "Name": "Zalando SE"
+  },
+  {
+    "InstrumentIdentifier": "DEM_ZO1.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15724482,
+    "Name": "zooplus AG"
+  },
+  {
+    "InstrumentIdentifier": "ATS_ZUM.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15651681,
+    "Name": "Zumtobel"
+  },
+  {
+    "InstrumentIdentifier": "CHF_ZURN.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 65399,
+    "Name": "Zurich Insurance Group AG"
+  },
+  {
+    "InstrumentIdentifier": "USD_ZNGA.CBUL",
+    "DecimalPlaces": 2,
+    "Id": 15807932,
+    "Name": "Zynga Inc"
+  }
+]
