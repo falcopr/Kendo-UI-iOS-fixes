@@ -4,7 +4,7 @@
   "description": "Analysis of some old Kendo UI controls to make them usable for newer iOS devices",
   "main": "server.js",
   "scripts": {
-    "preinstall": "npm install -g eslint eslint-plugin-class-property eslint-plugin-babel",
+    "preinstall": "npm install -g eslint eslint-plugin-babel",
     "start": "node server.js",
     "build": "./node_modules/.bin/webpack --config webpack.config.js --display-modules --mode=development",
     "watch": "./node_modules/.bin/webpack --config webpack.config.js --watch --display-modules --mode=development",
