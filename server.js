@@ -9,7 +9,8 @@ config.mode = 'development';
 const options = {
   contentBase: './wwwroot',
   hot: true,
-  host: 'localhost',
+  // host: 'localhost',
+  host: '0.0.0.0',
   historyApiFallback: true
 };
 
